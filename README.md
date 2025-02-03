@@ -8,7 +8,7 @@ A simple HTML/CSS demo project to learn GitHub.
 
 ## How to Run  
 1. Clone the repo:  
-   `git clone https://github.com/nikhilman44/my-first-project.git`  
+   `git clone https://github.com/nikhilman44/myfirstprojectwithdeepsick.git`  
 2. Open `index.html` in a browser.  
 
 ## License  
